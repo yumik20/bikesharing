@@ -10,7 +10,7 @@ In order to get the data right, first I converted the duration data type via Pan
 
 ## Results 
 
-[link to dashboard] (https://public.tableau.com/app/profile/yumi.kimura/viz/Citybikes5-Whoarethosebikers/WhoarethoseNYCbikers)
+[link to dashboard] ("https://public.tableau.com/app/profile/yumi.kimura/viz/Citybikes5-Whoarethosebikers/WhoarethoseNYCbikers")
 
 As you can see from the "Chekout Times by Gender", if we filter trips by within 1 hour, 1-2 hours, more than 2 hours, most trips are longer than 2 hours, and least trips are less than 1 hour.  Then we separate this by gender, and we can see gender 1 are the largest driver for the length of the trips, then the trips for gender 2 is much less than gender 1. For gender 0, perhaps the total number of this gender is much smaller, it does not impact the total outcome that much.   Then we take a look at "Trips by Weekday per Hour"table, surprisingly Thursday at 8m has the biggest amount of people stop trips. If we check out the "User Trips by gender by weekday" table we can further determine those users are regular users as they are subscribers, and they all from gender 1. This is probably because those people ride the bike for bodybuilding purposes.  We can also tell most customer bike on Saturday and Sunday from 10am to 8pm. It seems like those are more likely to be the visitors. 
 
